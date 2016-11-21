@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\advancesettings.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\advancesettings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewlayout.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\listviewlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\activity_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

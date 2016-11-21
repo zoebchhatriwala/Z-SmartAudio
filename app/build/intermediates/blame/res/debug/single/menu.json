@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\menu\\audio.xml"
+    }
+]

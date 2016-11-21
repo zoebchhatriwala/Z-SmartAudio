@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\buttonstyle.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\buttonstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sync.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button_style.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\buttonstylepressed.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\buttonstylepressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\audio.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\audio.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\play.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\editboxstyle.xml",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\drawable-xxhdpi\\editboxstyle.xml"
+    }
+]

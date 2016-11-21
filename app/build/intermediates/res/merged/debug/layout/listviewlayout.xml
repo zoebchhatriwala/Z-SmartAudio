@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"/>
+
+
+    <ImageView
+        android:id="@+id/photo"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:layout_toEndOf="@id/checkBox"
+        android:layout_toRightOf="@id/checkBox"
+        android:background="@drawable/audio"
+        android:scaleType="fitXY"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/checkBox"
+        android:layout_toEndOf="@+id/photo"
+        android:layout_toRightOf="@+id/photo"
+        android:text="Main Text"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/subtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/text"
+        android:layout_alignStart="@+id/text"
+        android:layout_below="@+id/text"
+        android:text="SubText"
+        tools:ignore="HardcodedText"
+        android:textSize="15sp" />
+
+</RelativeLayout>

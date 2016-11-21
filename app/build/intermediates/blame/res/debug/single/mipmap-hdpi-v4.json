@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\reshufflebtn.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\reshufflebtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\loop.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\loop.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekbackbtn.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\seekbackbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\file.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\playbtn.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\playbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pausebtn.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\pausebtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\seekaheadbtn.png",
+        "source": "C:\\Users\\Zoeb\\Documents\\Android\\Z-SmartAudio\\app\\src\\main\\res\\mipmap-hdpi\\seekaheadbtn.png"
+    }
+]

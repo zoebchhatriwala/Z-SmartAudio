@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d68774a2b767946b11dd7ce21138fa7d5f6aa5b">
+        <dex dex="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f8bfd9d201e2420fd9404a59d63fa40ef8ee9c85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zoeb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_d716daa6b79c285ec08ab539138db9bdfedccac9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8b52e36ca51dcbdac5bdca3c28ad70e76b5fccb3">
+        <dex dex="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aa1282b6d969e42645c769ddac95f30d2cf5dc28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_7ed163b0639ad352979b013fddb3a60d6c419186\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Zoeb\Documents\Android\Z-SmartAudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_3f8da58b860c71dc76c6264dd7384a9b7805c578\classes.dex" />
+    </item>
+
+</items>

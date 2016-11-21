@@ -1,0 +1,152 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="in.co.zoeb.zsmartaudio.Settings">
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/button_style"
+        android:text="Log Out"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/logout"
+        android:layout_alignStart="@+id/logout"
+        android:layout_below="@+id/logout"
+        android:background="@drawable/button_style"
+        android:text="About"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText"
+        android:layout_marginBottom="10dp"/>
+
+
+    <EditText
+        android:id="@+id/newpasschange"
+        android:layout_width="match_parent"
+        android:background="@drawable/editboxstyle"
+        android:ems="10"
+        android:hint=" New Password"
+        android:inputType="textPassword"
+        tools:ignore="HardcodedText"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_above="@+id/newpassagainchange"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"/>
+
+    <EditText
+        android:id="@+id/oldpasschange"
+        android:layout_width="match_parent"
+        android:background="@drawable/editboxstyle"
+        android:ems="10"
+        android:hint=" Old Password"
+        android:inputType="textPassword"
+        tools:ignore="HardcodedText"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_above="@+id/newpasschange"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"/>
+
+
+    <EditText
+        android:id="@+id/newpassagainchange"
+        android:layout_width="match_parent"
+        android:background="@drawable/editboxstyle"
+        android:ems="10"
+        android:hint=" Confirm Password"
+        android:inputType="textPassword"
+        tools:ignore="RtlHardcoded,HardcodedText"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_above="@+id/change"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/change"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_style"
+        android:text="Change"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/newpassagainchange"
+        android:layout_alignStart="@+id/newpassagainchange"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Auto Sync:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText"
+        android:layout_below="@+id/about"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ToggleButton
+        android:id="@+id/autosync"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_style"
+        android:text=""
+        android:textColor="@color/white"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp" />
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/editboxstyle"
+        android:spinnerMode="dialog"
+        android:layout_below="@+id/autosync"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        tools:ignore="HardcodedText"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Password:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:layout_above="@+id/oldpasschange"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp" />
+
+</RelativeLayout>
